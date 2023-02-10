@@ -2,6 +2,4 @@
 
 This is the start of my project. 
 
-This is a silly edit. 
-
 Mike Matera
