@@ -1,2 +1,5 @@
-# cis-92-sp23
-My course work for CIS-92
+# My CIS-92 Project for Spring 2023 
+
+This is the start of my project. 
+
+Mike Matera
